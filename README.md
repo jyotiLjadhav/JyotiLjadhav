@@ -1,7 +1,7 @@
 //![logo]()
 <h1 align="center">Hi 👋, I'm Jyoti Jadhav</h1>
 <h3 align="center">A passionate Full stack Developer, software Engineering & AI/ML Enthusiast from India</h3>
-<img align="right" width="400"  alt="image" src="https://github.com/user-attachments/assets/9b706b62-0b94-4cdd-ad79-94f73e20f256" />
+<img width="400" align="right alt="image" src="https://github.com/user-attachments/assets/ab99f498-2d44-461b-a655-7aa951d6892a" />
 
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiljadhav&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiljadhav" /> </p>
